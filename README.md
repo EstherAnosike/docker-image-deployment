@@ -1,7 +1,7 @@
-# Docker Image Deployment on Amazon ECS Cluster
+<h1> Docker Image Deployment on Amazon ECS Cluster </h1>
 
-## Step1 - Set Up an ECS Cluster
-### Create an ECS Cluster:
+Step1 - Set Up an ECS Cluster
+<h4> Create an ECS Cluster: </h4>
 - Open the ECS Management Console and create a new cluster.
 Select "Networking only" for Fargate
 - Click on create
