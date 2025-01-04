@@ -1,4 +1,4 @@
-Docker Image Deployment on Amazon ECS Cluster
+<h2> Docker Image Deployment on Amazon ECS Cluster </h2>
 
 Step1 - Set Up an ECS Cluster
 Create an ECS Cluster:
